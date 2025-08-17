@@ -1,0 +1,26 @@
+{
+  "name": "vigilant-sniffle",
+  "version": "1.0.0",
+  "description": "This Repo is to update my git account and add collaborators.\r add this",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aatib-cpu/vigilant-sniffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aatib-cpu/vigilant-sniffle/issues"
+  },
+  "homepage": "https://github.com/Aatib-cpu/vigilant-sniffle#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.28.0"
+  }
+}
